@@ -19,7 +19,7 @@ This extension pack includes;
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig support for Visual Studio Code
 * [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Adds extra Git functionality to Visual Studio Code
-* [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+* [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs) - Easily view, create and edit your gists
 * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects
 * [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read
 * [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Collection of extensions that add support for Java development in Visual Studio Code
