@@ -100,6 +100,7 @@ Thumbs.db:encryptable
 .history/
 .vscode/*
 *.code-workspace
+*.vsix
 
 ### JetBrains ###
 .idea/*.iml

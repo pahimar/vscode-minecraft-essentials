@@ -109,7 +109,7 @@ So you wanna contribute some code! That's great! This project uses GitHub Pull R
 
 If this seems like a lot or you aren't able to do all this setup, you might also be able to [edit the files directly](https://help.github.com/articles/editing-files-in-another-user-s-repository/) without having to do any of this setup. Yes, [even code](#contribute-code).
 
-If you want to go the usual route and run the project locally, please follow the steps in our [project setup](PROJECT_SETUP.md) documentation and you should be ready to go!
+As this is an extension pack, changes are primarily made to the `package.json` in the root folder of the project. To learn more about making/maintaining extension packs for Visual Studio Code you should read up on the documentation [here](https://code.visualstudio.com/blogs/2017/03/07/extension-pack-roundup).
 
 ## Contribute Documentation
 

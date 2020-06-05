@@ -7,27 +7,33 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](./.github/CONTRIBUTING.md)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pahimar/vscode-minecraft-essentials?color=blue&style=for-the-badge)](https://github.com/pahimar/vscode-minecraft-essentials/releases)
 
-**TODO:** One liner about the project goes here  
-
-## Overview
-
-**TODO:** Add a brief description outlining what the purpose of the project is for
+A collection of useful extensions for Minecraft Java Edition mod development.
 
 ## Features
 
-**TODO:** Write a brief overview of what the project's core features are (lists are great!)
+This extension pack includes;
 
-## Usage and/or Documentation
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark links and jump to them
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Adds color to matching pairs of brackets in your code
+* [Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle) - Code quality and static analysis for Java
+* [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+* [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig support for Visual Studio Code
+* [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Adds extra Git functionality to Visual Studio Code
+* [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+* [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects
+* [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read
+* [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Collection of extensions that add support for Java development in Visual Studio Code
+* [Prettify Json](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) - Prettifies JSON
 
-**TODO:** Outline any install and/or usage instructions, and call out to any external documentation you may have for your project like docs within your project's repository, on the project's website, in a Wiki, etc
+## Downloads
 
-## Releases and/or Downloads
+You can find the [Minecraft Essentials Extension Pack](https://marketplace.visualstudio.com/items?itemName=pahimar.minecraft-essentials-extension-pack) on the Visual Studio Marketplace.
 
-**TODO:** Explain where people can find your projects releases and download them
+Alternatively you can search for `"minecraft essentials"` in the Extensions area in Visual Studio Code to find the extension pack.
 
 ## Contributing
 
-Contributions are vital to the health and longevity of open source projects, and they are always welcome here! Please check out the [Contributing guide](./.github/CONTRIBUTING.md) as well as the [setup guide](./.github/PROJECT_SETUP.md) to get started.
+Contributions are vital to the health and longevity of open source projects, and they are always welcome here! Please check out the [Contributing guide](./.github/CONTRIBUTING.md) to get started.
 
 ## Community
 
