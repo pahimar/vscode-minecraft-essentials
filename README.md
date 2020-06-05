@@ -2,7 +2,7 @@
 
 ![Made for Minecraft](https://img.shields.io/badge/made%20for-Minecraft-blue?style=for-the-badge)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-red?style=for-the-badge)
-[![Project License](https://img.shields.io/github/license/pahimar/vscode-minecraft-essentials?style=for-the-badge&color=blue)](./LICENSE.md)
+![Project License](https://img.shields.io/github/license/pahimar/vscode-minecraft-essentials?color=blue&style=for-the-badge)
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-blue?style=for-the-badge)](./.github/CODE_OF_CONDUCT.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](./.github/CONTRIBUTING.md)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pahimar/vscode-minecraft-essentials?color=blue&style=for-the-badge)](https://github.com/pahimar/vscode-minecraft-essentials/releases)
