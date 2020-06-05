@@ -1,4 +1,4 @@
-# Visual Studio Minecraft Essentials Extension Pack
+# Visual Studio Code Minecraft Essentials Extension Pack
 
 ![Made for Minecraft](https://img.shields.io/badge/made%20for-Minecraft-blue?style=for-the-badge)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-red?style=for-the-badge)
@@ -7,7 +7,7 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](./.github/CONTRIBUTING.md)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pahimar/vscode-minecraft-essentials?color=blue&style=for-the-badge)](https://github.com/pahimar/vscode-minecraft-essentials/releases)
 
-A collection of useful extensions for Minecraft Java Edition mod development.
+A collection of useful Visual Studio Code extensions that help in making mods for Minecraft Java Edition.
 
 ## Features
 

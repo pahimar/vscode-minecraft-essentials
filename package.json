@@ -2,7 +2,7 @@
     "name": "minecraft-essentials-extension-pack",
     "displayName": "Minecraft Essentials Extension Pack",
     "description": "Visual Studio Code extension pack for Minecraft mod development",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "pahimar",
     "engines": {
         "vscode": "^1.45.0"
