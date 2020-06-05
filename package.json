@@ -1,0 +1,28 @@
+{
+    "name": "minecraft-essentials-extension-pack",
+    "displayName": "Minecraft Essentials Extension Pack",
+    "description": "Visual Studio Code extension pack for Minecraft mod development",
+    "version": "0.0.1",
+    "publisher": "pahimar",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "keywords": [
+        "minecraft",
+        "minecraftforge",
+        "mods"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "url": "https://github.com/pahimar/vscode-minecraft-essentials"
+    },
+    "homepage": "https://github.com/pahimar/vscode-minecraft-essentials",
+    "bugs": {
+        "url": "https://github.com/pahimar/vscode-minecraft-essentials/issues"
+    },
+    "extensionPack": [
+        "publisher.extensionName"
+    ]
+}
